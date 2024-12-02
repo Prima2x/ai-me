@@ -1,6 +1,6 @@
-import { openPost, initPosts } from './blog.js';
-import { changeTab } from './navigation.js';
-import { CONFIG } from '../config.js';
+import { openPost, initPosts } from 'blog.js';
+import { changeTab } from 'navigation.js';
+import { CONFIG } from 'config.js';
 
 const DEFAULT_HASH = CONFIG.defaultHash;
 

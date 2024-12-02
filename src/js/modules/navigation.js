@@ -1,6 +1,6 @@
-import { writeAnimation, tabAnimation } from './animations.js';
-import { defaultHash } from './routing.js';
-import { CONFIG } from '../config.js';
+import { writeAnimation, tabAnimation } from 'animations.js';
+import { defaultHash } from 'routing.js';
+import { CONFIG } from 'config.js';
 
 const CANVAS = document.getElementById('canvas');
 
