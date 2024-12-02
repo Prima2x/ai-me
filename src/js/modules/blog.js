@@ -1,7 +1,7 @@
-import { copyClipboard } from './utils.js';
-import { writeAnimation } from './animations.js';
-import { removeIDFromHash } from './routing.js';
-import { getEffectsDisabledState } from './effects.js';
+import { copyClipboard } from 'utils.js';
+import { writeAnimation } from 'animations.js';
+import { removeIDFromHash } from 'routing.js';
+import { getEffectsDisabledState } from 'effects.js';
 import { CONFIG } from '../config.js';
 
 const BLOG_URL = CONFIG.blogUrl;
