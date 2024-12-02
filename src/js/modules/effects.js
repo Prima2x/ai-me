@@ -1,4 +1,4 @@
-import { CONFIG } from 'config.js';
+import { CONFIG } from '../config.js';
 
 const EFFECTS_CSS_URL = 'assets/css/effects.css';
 

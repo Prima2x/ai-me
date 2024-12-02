@@ -1,5 +1,5 @@
-import { CONFIG } from 'config.js';
-import { getEffectsDisabledState } from 'effects.js';
+import { CONFIG } from '../config.js';
+import { getEffectsDisabledState } from './effects.js';
 
 /**
  * Animates the text content of an element by fading in each letter.
